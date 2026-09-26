@@ -1,0 +1,73 @@
+========================================
+TASK 2 – HUMAN RESOURCES ANALYTICS
+========================================
+
+Total Employees =
+DISTINCTCOUNT(HR_Analytics_Data[Employee_ID])
+
+
+Current Employees =
+CALCULATE(
+    [Total Employees],
+    HR_Analytics_Data[Currently_Employed] = "Yes"
+)
+
+
+Attrition Count =
+CALCULATE(
+    [Total Employees],
+    HR_Analytics_Data[Left_Company] = "Yes"
+)
+
+
+Attrition Rate =
+DIVIDE(
+    [Attrition Count],
+    [Total Employees],
+    0
+)
+
+
+Average Satisfaction =
+AVERAGE(HR_Analytics_Data[Satisfaction_Score])
+
+
+Average Performance =
+AVERAGE(HR_Analytics_Data[Performance_Score])
+
+
+Average Salary =
+AVERAGE(HR_Analytics_Data[Monthly_Salary])
+
+
+========================================
+TASK 4 – EDUCATIONAL PERFORMANCE
+========================================
+
+Total Students =
+DISTINCTCOUNT(Educational_Performance_Data[Student_ID])
+
+
+Average Marks =
+AVERAGE(Educational_Performance_Data[Overall_Marks])
+
+
+Average CGPA =
+AVERAGE(Educational_Performance_Data[CGPA])
+
+
+Average Attendance =
+AVERAGE(Educational_Performance_Data[Attendance_Percent])
+
+
+Students with Backlogs =
+CALCULATE(
+    [Total Students],
+    Educational_Performance_Data[Backlogs] > 0
+)
+
+
+Average Study Hours =
+AVERAGE(
+    Educational_Performance_Data[Study_Hours_Per_Week]
+)
