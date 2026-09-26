@@ -1,0 +1,13 @@
+Department,Resource_Type,Allocated,Used,Available
+CSE,Classrooms,8,7,1
+AI&DS,Classrooms,6,5,1
+ECE,Classrooms,7,6,1
+CSE,Computers,180,160,20
+AI&DS,Computers,150,142,8
+ECE,Computers,140,120,20
+CSE,Faculty,28,25,3
+AI&DS,Faculty,24,22,2
+ECE,Faculty,26,23,3
+CSE,Projectors,12,10,2
+AI&DS,Projectors,10,9,1
+ECE,Projectors,11,8,3

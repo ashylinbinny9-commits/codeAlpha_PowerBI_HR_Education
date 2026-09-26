@@ -1,0 +1,31 @@
+Employee_ID,Join_Date,Department,Job_Role,Gender,Age,Satisfaction_Score,Performance_Score,Years_at_Company,Overtime,Monthly_Salary,Currently_Employed,Left_Company,Exit_Date
+1001,2023-01-10,IT,Software Engineer,Male,24,4.2,82,2,1,52000,Yes,No,2024-08-15
+1002,2023-02-18,HR,HR Executive,Female,27,4.5,88,1,0,46000,Yes,No,2025-02-20
+1003,2023-03-12,Sales,Sales Executive,Male,29,3.4,68,3,1,44000,No,Yes,2024-11-10
+1004,2023-04-05,Finance,Financial Analyst,Female,26,4.1,79,2,0,51000,Yes,No,2025-01-15
+1005,2023-05-22,IT,Data Analyst,Female,23,4.7,91,1,0,54000,Yes,No,2025-03-10
+1006,2023-06-14,Marketing,Marketing Executive,Male,31,3.2,64,4,1,42000,No,Yes,2024-12-01
+1007,2023-07-03,IT,Data Scientist,Female,28,4.8,94,1,0,68000,Yes,No,2025-04-12
+1008,2023-08-19,Sales,Sales Manager,Male,35,3.9,76,5,0,62000,Yes,No,2025-05-05
+1009,2023-09-25,HR,Recruiter,Female,30,4.0,81,2,0,47000,Yes,No,2025-02-28
+1010,2023-10-11,Finance,Accountant,Male,33,3.6,70,4,1,48000,No,Yes,2024-10-18
+1011,2024-01-15,IT,Cloud Engineer,Male,26,4.6,89,2,0,65000,Yes,No,2025-06-20
+1012,2024-02-21,Marketing,Digital Marketing Executive,Female,25,4.3,85,1,0,45000,Yes,No,2025-07-11
+1013,2024-03-18,Sales,Sales Executive,Female,28,3.1,62,3,1,43000,No,Yes,2025-01-08
+1014,2024-04-10,IT,UI/UX Designer,Female,24,4.9,96,1,0,56000,Yes,No,2025-08-14
+1015,2024-05-17,Finance,Finance Manager,Male,39,4.4,87,7,0,76000,Yes,No,2025-09-01
+1016,2024-06-25,HR,HR Manager,Female,37,4.6,90,8,0,70000,Yes,No,2025-09-15
+1017,2024-07-13,IT,ML Engineer,Male,27,4.7,92,2,0,72000,Yes,No,2025-10-05
+1018,2024-08-09,Sales,Business Development Executive,Male,30,3.5,69,3,1,45000,No,Yes,2025-03-22
+1019,2024-09-16,Marketing,Content Strategist,Female,29,4.2,83,3,0,50000,Yes,No,2025-11-12
+1020,2024-10-04,IT,Software Engineer,Female,25,4.4,86,1,0,55000,Yes,No,2025-12-02
+1021,2025-01-08,Finance,Financial Analyst,Female,27,4.0,78,2,0,52000,Yes,No,2026-01-14
+1022,2025-02-12,HR,HR Executive,Male,26,3.8,74,1,0,45500,Yes,No,2026-02-10
+1023,2025-03-21,IT,Data Analyst,Male,24,4.6,90,1,0,57000,Yes,No,2026-02-25
+1024,2025-04-15,Sales,Sales Executive,Female,29,3.3,66,3,1,44500,No,Yes,2026-03-18
+1025,2025-05-27,Marketing,Social Media Executive,Female,23,4.5,87,1,0,43000,Yes,No,2026-04-07
+1026,2025-06-11,IT,Cyber Security Analyst,Male,28,4.8,93,2,0,67000,Yes,No,2026-04-25
+1027,2025-07-19,Finance,Accountant,Female,32,3.7,72,5,1,49000,No,Yes,2026-05-10
+1028,2025-08-06,HR,Recruiter,Male,31,4.1,80,3,0,48000,Yes,No,2026-05-22
+1029,2025-09-14,IT,Data Scientist,Female,30,4.9,95,4,0,70000,Yes,No,2026-06-15
+1030,2025-10-20,Sales,Sales Manager,Female,36,4.0,78,6,0,64000,Yes,No,2026-07-01
